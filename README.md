@@ -1,6 +1,9 @@
 # Vue-fullpage.js
 ![preview](https://alvarotrigo.com/fullPage/vue-fullpage/imgs/vue-fullpage-wrapper.png)
 <p align="center">
+An attempt to fork vue-fullpage to use fullPage.js 4 with Nuxt 2.
+</p>
+<p align="center">
 Official Vue.js wrapper for the <a target="_blank" href="https://github.com/alvarotrigo/fullPage.js/">fullpage.js library</a>.
 </p>
 
